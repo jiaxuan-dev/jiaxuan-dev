@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
 
-<!--
-**jiaxuan-dev/jiaxuan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**前端程序员**
 
-Here are some ideas to get you started:
+- 😄HTML，CSS，JavaScript
+- 😃VUE，React，Angular
+- 😆ElementUI，iVewe，Bootstrap
+- 😝Node.js，PHP
+- 😛MySql，MongoDB
+- 😧都不精通
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🙏万事如意**
+
+```
+                                 _                                  
+                              _ooOoo_                               
+                             o8888888o                              
+                             88" . "88                              
+                             (| -_- |)                              
+                             O\  =  /O                              
+                          ____/`---'\____                           
+                        .'  \\|     |//  `.                         
+                       /  \\|||  :  |||//  \                        
+                      /  _||||| -:- |||||_  \                       
+                      |   | \\\  -  /'| |   |                       
+                      | \_|  `\`---'//  |_/ |                       
+                      \  .-\__ `-. -'__/-.  /                       
+                    ___`. .'  /--.--\  `. .'___                     
+                 ."" '<  `.___\_<|>_/___.' _> \"".                  
+                | | :  `- \`. ;`. _/; .'/ /  .' ; |           
+                \  \ `-.   \_\_`. _.'_/_/  -' _.' /                 
+  ================-.`___`-.__\ \___  /__.-'_.'_.-'================  
+                              `=--=-'                            
+```
